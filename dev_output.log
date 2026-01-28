@@ -1,0 +1,17 @@
+
+> temp-astro@0.0.1 dev
+> astro dev
+
+03:34:02 [@astrojs/node] Enabling sessions with filesystem storage
+03:34:02 [types] Generated 1ms
+03:34:02 [content] Syncing content
+03:34:02 [content] Synced content
+03:34:02 [vite] Re-optimizing dependencies because vite config has changed
+
+ astro  v5.16.15 ready in 563 ms
+
+┃ Local    http://localhost:4321/
+┃ Network  use --host to expose
+
+03:34:02 watching for file changes...
+03:36:46 [200] / 451ms
